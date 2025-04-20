@@ -1,5 +1,5 @@
 {
-    "name": "checkxpert",
+    "name": "chexpert",
     "version": "1.0.0",
     "description": "Use AI to provide plain english instructions for your playwright tests",
     "main": "dist/index.js",
