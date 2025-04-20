@@ -1,0 +1,21 @@
+{
+    "name": "checkxpert",
+    "version": "1.0.0",
+    "description": "Use AI to provide plain english instructions for your playwright tests",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "files": [
+        "/dist"
+    ],
+    "devDependencies": {
+        "typescipt": "^1.0.0"
+    },
+    "dependencies": {
+        "@langchain/anthropic": "^0.3.18",
+        "@langchain/core": "^0.3.45",
+        "@langchain/google-genai": "^0.2.4",
+        "langchain": "^0.3.23",
+        "playwright-core": "^1.52.0",
+        "zod": "^3.24.3"
+    }
+}
