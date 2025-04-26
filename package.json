@@ -1,6 +1,6 @@
 {
     "name": "chexpert",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "description": "Use AI to provide plain english instructions for your playwright tests",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
