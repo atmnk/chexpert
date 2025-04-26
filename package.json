@@ -7,15 +7,12 @@
     "files": [
         "/dist"
     ],
-    "devDependencies": {
-        "typescipt": "^1.0.0"
-    },
     "dependencies": {
-        "@langchain/anthropic": "^0.3.18",
-        "@langchain/core": "^0.3.45",
-        "@langchain/google-genai": "^0.2.4",
+        "@langchain/anthropic": "^0.3.19",
+        "@langchain/core": "^0.3.19",
+        "@langchain/google-genai": "^0.2.5",
         "@langchain/openai": "^0.5.7",
-        "langchain": "^0.3.23",
+        "langchain": "^0.3.24",
         "playwright-core": "^1.52.0",
         "typescript": "^5.8.3",
         "zod": "^3.24.3"

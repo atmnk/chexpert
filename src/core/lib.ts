@@ -84,7 +84,7 @@ class CheckIfVisible extends StructuredTool {
 }
 type GoogleModelInitializationParams = {
     provider: "google";
-    fields?: GoogleGenerativeAIChatInput;
+    fields: GoogleGenerativeAIChatInput;
 }
 type AnthropicModelInitializationParams = {
     provider: "anthropic";
