@@ -1,6 +1,6 @@
 {
     "name": "chexpert",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "Use AI to provide plain english instructions for your playwright tests",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
@@ -14,8 +14,10 @@
         "@langchain/anthropic": "^0.3.18",
         "@langchain/core": "^0.3.45",
         "@langchain/google-genai": "^0.2.4",
+        "@langchain/openai": "^0.5.7",
         "langchain": "^0.3.23",
         "playwright-core": "^1.52.0",
+        "typescript": "^5.8.3",
         "zod": "^3.24.3"
     }
 }
